@@ -10,6 +10,7 @@ RENCANA KONTEN WPU
 =======
    ^ Vue
    ^ React
+   ^ Angular
 - Stuktur data dasar
 >>>>>>> main
 - PHP Frameworks
